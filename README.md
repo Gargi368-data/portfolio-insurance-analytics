@@ -1,3 +1,3 @@
-# portfolio-insurance-analytics
+# Portfolio-insurance-analytics
 Welcome to the Employee Performance Tracker! This project is designed to help organizations evaluate and enhance the performance of their employees through a user-friendly platform. By providing insightful analytics and comprehensive reports, our tool enables managers to monitor individual and team performance, set actionable goals, and identify areas for improvement.
 Whether you're looking to streamline performance reviews, foster employee development, or align team objectives with organizational goals, the Employee Performance Tracker offers features tailored to meet those needs. With an intuitive interface and powerful data visualization, stakeholders can easily gain a clearer understanding of performance metrics, driving productivity and engagement throughout the company.
